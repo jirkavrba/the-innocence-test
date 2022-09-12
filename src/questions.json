@@ -1,0 +1,602 @@
+[
+    {
+        "index": 0,
+        "text": "been on a date ",
+        "emoji": "💕",
+        "weight": 1
+    },
+    {
+        "index": 1,
+        "text": "been in a relationship ",
+        "emoji": "🥰",
+        "weight": 1
+    },
+    {
+        "index": 2,
+        "text": "kissed a mps (member of the preferred sex) ",
+        "emoji": "😘",
+        "weight": 1
+    },
+    {
+        "index": 3,
+        "text": "made out in public ",
+        "emoji": "😐",
+        "weight": 1
+    },
+    {
+        "index": 4,
+        "text": "played a game involved stripping ",
+        "emoji": "🩲",
+        "weight": 1
+    },
+    {
+        "index": 5,
+        "text": "masturbated ",
+        "emoji": "😈",
+        "weight": 1
+    },
+    {
+        "index": 6,
+        "text": "sent or received underwear pics ",
+        "emoji": "👙",
+        "weight": 1
+    },
+    {
+        "index": 7,
+        "text": "sent nudes ",
+        "emoji": "🚫",
+        "weight": 1
+    },
+    {
+        "index": 8,
+        "text": "received nudes ",
+        "emoji": "❌",
+        "weight": 1
+    },
+    {
+        "index": 9,
+        "text": "sexted ",
+        "emoji": "📲",
+        "weight": 1
+    },
+    {
+        "index": 10,
+        "text": "facetime sex ",
+        "emoji": "🤳",
+        "weight": 1
+    },
+    {
+        "index": 11,
+        "text": "kissed 3 or more people in one night. ",
+        "emoji": "👨‍👩‍👦",
+        "weight": 1
+    },
+    {
+        "index": 12,
+        "text": "FwB",
+        "emoji": "👩🏼‍🤝‍👨🏽",
+        "weight": 1
+    },
+    {
+        "index": 13,
+        "text": "been in love ",
+        "emoji": "💖",
+        "weight": 1
+    },
+    {
+        "index": 14,
+        "text": "had a dating app ",
+        "emoji": "🔥",
+        "weight": 1
+    },
+    {
+        "index": 15,
+        "text": "paid for a premium version of a dating app ",
+        "emoji": "💸",
+        "weight": 1
+    },
+    {
+        "index": 16,
+        "text": "long distance relationship ",
+        "emoji": "🛫",
+        "weight": 1
+    },
+    {
+        "index": 17,
+        "text": "asked for a stranger’s contact info ",
+        "emoji": "#️⃣",
+        "weight": 1
+    },
+    {
+        "index": 18,
+        "text": "been asked for your contact info by a stranger ",
+        "emoji": "👻",
+        "weight": 1
+    },
+    {
+        "index": 19,
+        "text": "gotten back with/hooked up with an ex ",
+        "emoji": "❎",
+        "weight": 1
+    },
+    {
+        "index": 20,
+        "text": "slid into someone’s DMs ",
+        "emoji": "📳",
+        "weight": 1
+    },
+    {
+        "index": 21,
+        "text": "watched porn",
+        "emoji": "🟧",
+        "weight": 1
+    },
+    {
+        "index": 22,
+        "text": "paid for any porn ",
+        "emoji": "🤑",
+        "weight": 1
+    },
+    {
+        "index": 23,
+        "text": "watched porn with mps ",
+        "emoji": "🍿",
+        "weight": 1
+    },
+    {
+        "index": 24,
+        "text": "talked to 5 or more people at once ",
+        "emoji": "5️⃣",
+        "weight": 1
+    },
+    {
+        "index": 25,
+        "text": "posted a thirst trap ",
+        "emoji": "😜",
+        "weight": 1
+    },
+    {
+        "index": 26,
+        "text": "said “i love you” ",
+        "emoji": "😍",
+        "weight": 1
+    },
+    {
+        "index": 27,
+        "text": "been to a party ",
+        "emoji": "🎉",
+        "weight": 1
+    },
+    {
+        "index": 28,
+        "text": "thrown a party ",
+        "emoji": "🥳",
+        "weight": 1
+    },
+    {
+        "index": 29,
+        "text": "drank ",
+        "emoji": "🥂",
+        "weight": 1
+    },
+    {
+        "index": 30,
+        "text": "been drunk ",
+        "emoji": "😵",
+        "weight": 1
+    },
+    {
+        "index": 31,
+        "text": "blacked or yakked ",
+        "emoji": "🥴",
+        "weight": 1
+    },
+    {
+        "index": 32,
+        "text": "played a drinking game ",
+        "emoji": "🥤",
+        "weight": 1
+    },
+    {
+        "index": 33,
+        "text": "faked sobriety ",
+        "emoji": "🤥",
+        "weight": 1
+    },
+    {
+        "index": 34,
+        "text": "flirted with a stranger to get a free drink ",
+        "emoji": "🍻",
+        "weight": 1
+    },
+    {
+        "index": 35,
+        "text": "taken alcohol from your parents ",
+        "emoji": "🥃",
+        "weight": 1
+    },
+    {
+        "index": 36,
+        "text": "smoked weed ",
+        "emoji": "🍃",
+        "weight": 1
+    },
+    {
+        "index": 37,
+        "text": "done edibles ",
+        "emoji": "🍪",
+        "weight": 1
+    },
+    {
+        "index": 38,
+        "text": "hit a bong ",
+        "emoji": "⚗️",
+        "weight": 1
+    },
+    {
+        "index": 39,
+        "text": "nicotine (vaped) ",
+        "emoji": "💨",
+        "weight": 1
+    },
+    {
+        "index": 40,
+        "text": "smoked a cigarette ",
+        "emoji": "🚬",
+        "weight": 1
+    },
+    {
+        "index": 41,
+        "text": "cocaine or a drug stronger ",
+        "emoji": "💉",
+        "weight": 1
+    },
+    {
+        "index": 42,
+        "text": "had a fake ",
+        "emoji": "🆔",
+        "weight": 1
+    },
+    {
+        "index": 43,
+        "text": "had a fake ID confiscated ",
+        "emoji": "👮‍♂️",
+        "weight": 1
+    },
+    {
+        "index": 44,
+        "text": "used a fake to buy alcohol/drugs ",
+        "emoji": "💰",
+        "weight": 1
+    },
+    {
+        "index": 45,
+        "text": "used a fake to get into a bar/club ",
+        "emoji": "🕺",
+        "weight": 1
+    },
+    {
+        "index": 46,
+        "text": "had the police called on you ",
+        "emoji": "🚔",
+        "weight": 1
+    },
+    {
+        "index": 47,
+        "text": "gotten in trouble with school or law ",
+        "emoji": "🙁",
+        "weight": 1
+    },
+    {
+        "index": 48,
+        "text": "showered with mps ",
+        "emoji": "🚿",
+        "weight": 1
+    },
+    {
+        "index": 49,
+        "text": "given/received a hickey ",
+        "emoji": "💋",
+        "weight": 1
+    },
+    {
+        "index": 50,
+        "text": "had/given blue balls ",
+        "emoji": "🔵",
+        "weight": 1
+    },
+    {
+        "index": 51,
+        "text": "someone else made you orgasm ",
+        "emoji": "🤯",
+        "weight": 1
+    },
+    {
+        "index": 52,
+        "text": "cheated/been cheated on/been cheated with ",
+        "emoji": "🤮",
+        "weight": 1
+    },
+    {
+        "index": 53,
+        "text": "bought plan b ",
+        "emoji": "👼🏼",
+        "weight": 1
+    },
+    {
+        "index": 54,
+        "text": "bought birth control ",
+        "emoji": "💊",
+        "weight": 1
+    },
+    {
+        "index": 55,
+        "text": "given head ",
+        "emoji": "🧠",
+        "weight": 1
+    },
+    {
+        "index": 56,
+        "text": "received head ",
+        "emoji": "👄",
+        "weight": 1
+    },
+    {
+        "index": 57,
+        "text": "used a sex toy ",
+        "emoji": "🧸",
+        "weight": 1
+    },
+    {
+        "index": 58,
+        "text": "spent the night with mps ",
+        "emoji": "💤",
+        "weight": 1
+    },
+    {
+        "index": 59,
+        "text": "been walked in on while engaging in a sexual act ",
+        "emoji": "😳",
+        "weight": 1
+    },
+    {
+        "index": 60,
+        "text": "sexiled a roommate ",
+        "emoji": "👋🏼",
+        "weight": 1
+    },
+    {
+        "index": 61,
+        "text": "had sex ",
+        "emoji": "🍆",
+        "weight": 1
+    },
+    {
+        "index": 62,
+        "text": "had sex 3 or more times in one night. ",
+        "emoji": "🏘",
+        "weight": 1
+    },
+    {
+        "index": 63,
+        "text": "STI/STD test ",
+        "emoji": "🦠",
+        "weight": 1
+    },
+    {
+        "index": 64,
+        "text": "had car sex ",
+        "emoji": "🚘",
+        "weight": 1
+    },
+    {
+        "index": 65,
+        "text": "had sex in public ",
+        "emoji": "📢",
+        "weight": 1
+    },
+    {
+        "index": 66,
+        "text": "used blindfold/handcuffs in bed ",
+        "emoji": "🤭",
+        "weight": 1
+    },
+    {
+        "index": 67,
+        "text": "joined the mile high club ",
+        "emoji": "🛫",
+        "weight": 1
+    },
+    {
+        "index": 68,
+        "text": "",
+        "emoji": "❓",
+        "weight": 1
+    },
+    {
+        "index": 69,
+        "text": "3some ",
+        "emoji": "3️⃣",
+        "weight": 1
+    },
+    {
+        "index": 70,
+        "text": "orgy! ",
+        "emoji": "🔢",
+        "weight": 1
+    },
+    {
+        "index": 71,
+        "text": "body count > 5 ",
+        "emoji": "📈",
+        "weight": 1
+    },
+    {
+        "index": 72,
+        "text": "sex tape. ",
+        "emoji": "🎥",
+        "weight": 1
+    },
+    {
+        "index": 73,
+        "text": "anal ",
+        "emoji": "🍑",
+        "weight": 1
+    },
+    {
+        "index": 74,
+        "text": "period sex ",
+        "emoji": "🩸",
+        "weight": 1
+    },
+    {
+        "index": 75,
+        "text": "bought a pregnancy test ",
+        "emoji": "📄",
+        "weight": 1
+    },
+    {
+        "index": 76,
+        "text": "been preggo/ gotten someone preggo ",
+        "emoji": "🤰",
+        "weight": 1
+    },
+    {
+        "index": 77,
+        "text": "streaked ",
+        "emoji": "👀",
+        "weight": 1
+    },
+    {
+        "index": 78,
+        "text": "skinny dipped ",
+        "emoji": "🌊",
+        "weight": 1
+    },
+    {
+        "index": 79,
+        "text": "seen a stripper ",
+        "emoji": "👅",
+        "weight": 1
+    },
+    {
+        "index": 80,
+        "text": "run from the police ",
+        "emoji": "👮",
+        "weight": 1
+    },
+    {
+        "index": 81,
+        "text": "been questioned by/handcuffed by police ",
+        "emoji": "🚨",
+        "weight": 1
+    },
+    {
+        "index": 82,
+        "text": "committed vandalism ",
+        "emoji": "🎨",
+        "weight": 1
+    },
+    {
+        "index": 83,
+        "text": "driven under the influence ",
+        "emoji": "🚙",
+        "weight": 1
+    },
+    {
+        "index": 84,
+        "text": "texted while driving ",
+        "emoji": "💬",
+        "weight": 1
+    },
+    {
+        "index": 85,
+        "text": "gotten a tattoo ",
+        "emoji": "🖋️",
+        "weight": 1
+    },
+    {
+        "index": 86,
+        "text": "pierced something other than your ears ",
+        "emoji": "👃",
+        "weight": 1
+    },
+    {
+        "index": 87,
+        "text": "stolen something ",
+        "emoji": "💲",
+        "weight": 1
+    },
+    {
+        "index": 88,
+        "text": "crashed a car ",
+        "emoji": "🏎",
+        "weight": 1
+    },
+    {
+        "index": 89,
+        "text": "blocked someone on social media ",
+        "emoji": "👎🏽",
+        "weight": 1
+    },
+    {
+        "index": 90,
+        "text": "gotten kicked out of a party ",
+        "emoji": "😡",
+        "weight": 1
+    },
+    {
+        "index": 91,
+        "text": "been at a party that got raided ",
+        "emoji": "🚒",
+        "weight": 1
+    },
+    {
+        "index": 92,
+        "text": "snuck out ",
+        "emoji": "😰",
+        "weight": 1
+    },
+    {
+        "index": 93,
+        "text": "had corona! ",
+        "emoji": "😷",
+        "weight": 1
+    },
+    {
+        "index": 94,
+        "text": "had a crush on a teacher ",
+        "emoji": "👩‍🏫",
+        "weight": 1
+    },
+    {
+        "index": 95,
+        "text": "stalked someone’s snapchat location ",
+        "emoji": "📍",
+        "weight": 1
+    },
+    {
+        "index": 96,
+        "text": "gotten with 2+ people in the same friend group ",
+        "emoji": "👏🏼",
+        "weight": 1
+    },
+    {
+        "index": 97,
+        "text": "whole snap best friends list has been love interests ",
+        "emoji": "😎",
+        "weight": 1
+    },
+    {
+        "index": 98,
+        "text": "gotten with someone 3+ years older than you ",
+        "emoji": "👵",
+        "weight": 1
+    },
+    {
+        "index": 99,
+        "text": "gotten with someone 3+ years younger than you ",
+        "emoji": "👶",
+        "weight": 1
+    }
+]
