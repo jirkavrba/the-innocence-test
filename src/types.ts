@@ -4,3 +4,7 @@ export interface QuestionData {
     emoji: string,
     weight: number,
 }
+
+export interface AnsweredQuestionData extends QuestionData {
+    answer: boolean
+}
