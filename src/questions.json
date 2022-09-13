@@ -67,13 +67,13 @@
     },
     {
         "index": 11,
-        "text": "kissed 3 or more people in one night. ",
+        "text": "kissed 3 or more people in one night ",
         "emoji": "👨‍👩‍👦",
         "weight": 1
     },
     {
         "index": 12,
-        "text": "FwB ",
+        "text": "FwB (friends with benefits) ",
         "emoji": "👩🏼‍🤝‍👨🏽",
         "weight": 1
     },
@@ -128,7 +128,7 @@
     {
         "index": 21,
         "text": "watched porn ",
-        "emoji": "🟧",
+        "emoji": "📺",
         "weight": 1
     },
     {
@@ -254,7 +254,7 @@
     {
         "index": 42,
         "text": "had a fake ID ",
-        "emoji": "🆔",
+        "emoji": "🥸",
         "weight": 1
     },
     {
@@ -265,13 +265,13 @@
     },
     {
         "index": 44,
-        "text": "used a fake to buy alcohol/drugs ",
+        "text": "used a fake ID to buy alcohol/drugs ",
         "emoji": "💰",
         "weight": 1
     },
     {
         "index": 45,
-        "text": "used a fake to get into a bar/club ",
+        "text": "used a fake ID to get into a bar/club ",
         "emoji": "🕺",
         "weight": 1
     },
@@ -410,7 +410,7 @@
     {
         "index": 68,
         "text": "69 ",
-        "emoji": "❓",
+        "emoji": "♋",
         "weight": 1
     },
     {
@@ -421,7 +421,7 @@
     },
     {
         "index": 70,
-        "text": "orgy! ",
+        "text": "orgy ",
         "emoji": "🔢",
         "weight": 1
     },
@@ -433,7 +433,7 @@
     },
     {
         "index": 72,
-        "text": "sex tape. ",
+        "text": "sex tape ",
         "emoji": "🎥",
         "weight": 1
     },
@@ -457,19 +457,19 @@
     },
     {
         "index": 76,
-        "text": "been preggo/ gotten someone preggo ",
+        "text": "been preggo / gotten someone preggo ",
         "emoji": "🤰",
         "weight": 1
     },
     {
         "index": 77,
-        "text": "streaked ",
+        "text": "streaked (running naked in public) ",
         "emoji": "👀",
         "weight": 1
     },
     {
         "index": 78,
-        "text": "skinny dipped ",
+        "text": "skinny dipped (went swimming naked) ",
         "emoji": "🌊",
         "weight": 1
     },
@@ -559,7 +559,7 @@
     },
     {
         "index": 93,
-        "text": "had corona! ",
+        "text": "had corona ",
         "emoji": "😷",
         "weight": 1
     },
@@ -583,7 +583,7 @@
     },
     {
         "index": 97,
-        "text": "whole snap best friends list has been love interests ",
+        "text": "whole best friends list has been love interests ",
         "emoji": "😎",
         "weight": 1
     },
