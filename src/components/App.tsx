@@ -3,6 +3,7 @@ import { AnsweredQuestionData, QuestionData } from "../types";
 import source from "../questions.json";
 import Header from "./Header";
 import Test from "./Test";
+import Results from "./Results";
 
 const App: FC = () => {
   const [questions, setQuestions] = useState<Array<AnsweredQuestionData>>([]);
@@ -25,8 +26,11 @@ const App: FC = () => {
 
   return (
     <div className="container mx-auto">
-      <Header />
-      <Test questions={questions} setAnswer={setAnswer}/>
+      <Header displayIntro={!completed}/>
+      {completed
+        ? <Results answers={questions} />
+        : <Test questions={questions} setAnswer={setAnswer} onComplete={() => setCompleted(true)}/>
+      }
     </div>
   );
 
