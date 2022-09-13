@@ -9,7 +9,7 @@ interface TestProps {
 
 const Test: FC<TestProps> = ({ questions, setAnswer }: TestProps) => {
     return (    
-        <main className="mx-5 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5">
+        <main className="mx-5 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 mb-10">
             {questions.map((question: AnsweredQuestionData) =>
                 <Question
                     key={question.index}
