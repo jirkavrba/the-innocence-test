@@ -2,6 +2,7 @@ import { FC, useEffect, useState } from "react";
 import { AnsweredQuestionData, QuestionData } from "../types";
 import source from "../questions.json";
 import Header from "./Header";
+import Test from "./Test";
 
 const App: FC = () => {
   const [questions, setQuestions] = useState<Array<AnsweredQuestionData>>([]);
@@ -24,16 +25,8 @@ const App: FC = () => {
 
   return (
     <div className="container mx-auto">
-      <Header/>
-      <ul>
-        {questions.map((question: AnsweredQuestionData) => 
-          <li key={question.index}>
-            <input type="checkbox" onChange={(event) => setAnswer(question.index, event.target.checked)}/>
-            {question.text}
-            {question.answer ? " - checked" : ""}
-          </li>
-        )}
-      </ul>
+      <Header />
+      <Test questions={questions} setAnswer={setAnswer}/>
     </div>
   );
 
