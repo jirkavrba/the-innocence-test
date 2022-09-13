@@ -1,6 +1,7 @@
 import { FC, useEffect, useState } from "react";
 import { AnsweredQuestionData, QuestionData } from "../types";
 import source from "../questions.json";
+import Header from "./Header";
 
 const App: FC = () => {
   const [questions, setQuestions] = useState<Array<AnsweredQuestionData>>([]);
@@ -22,7 +23,8 @@ const App: FC = () => {
   };
 
   return (
-    <>
+    <div className="container mx-auto">
+      <Header/>
       <ul>
         {questions.map((question: AnsweredQuestionData) => 
           <li key={question.index}>
@@ -32,7 +34,7 @@ const App: FC = () => {
           </li>
         )}
       </ul>
-    </>
+    </div>
   );
 
 }
