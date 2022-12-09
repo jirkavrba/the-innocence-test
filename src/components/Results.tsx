@@ -53,9 +53,14 @@ const groups: Array<ResultGroup> = [
         description: "You definitely experiment, but your heart is overall Pure(TM). Your mom is so proud of you right now!"
     },
     {
-        threshold: 0,
+        threshold: 1,
         title: "Angel",
         description: "You're the friend that my parents would always let me hang out with and never ask any questions about it. fix your halo, honey, and keep up the good work."
+    },
+    {
+        threshold: 0,
+        title: "Theoretical Computer Science student",
+        description: "You don’t contribute anything to the society. Just be alone! Stop trying. NOBODY LIKES YOU!"
     }
 ];
 
