@@ -8,6 +8,11 @@ interface ResultsProps {
 // Taken from the original innocence test
 const groups: Array<ResultGroup> = [
     {
+        threshold: 100,
+        title: "Completionist",
+        description: "We love your dedication. You are a (wo)man of focus, commitment and sheer fucking will. Please submit your run to speedrun.com."
+    },
+    {
         threshold: 81,
         title: "Devil Child",
         description: "Idk what you're doing on the weekends, but all the more power to you. Lucifer would be proud."
