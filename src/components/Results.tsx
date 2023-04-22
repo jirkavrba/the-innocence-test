@@ -1,5 +1,6 @@
 import { FC } from "react";
 import { AnsweredQuestionData } from "../types"
+import ResultsGrid from "./ResultsGrid";
 
 interface ResultsProps {
     answers: Array<AnsweredQuestionData>
@@ -87,6 +88,7 @@ const Results: FC<ResultsProps> = ({ answers }: ResultsProps) => {
             <p className="w-full font-bold sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3 mx-auto my-5 text-neutral-700">
                 {group.description}
             </p>
+            <ResultsGrid answers={answers} />
         </div>
     );
 };
