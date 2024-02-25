@@ -1,5 +1,6 @@
 import { FC } from "react";
 import { AnsweredQuestionData } from "../types";
+import Twemoji from "react-twemoji";
 
 interface ResultsGridProps {
     answers: Array<AnsweredQuestionData>
@@ -11,7 +12,11 @@ const ResultsGrid: FC<ResultsGridProps> = ({ answers }) => {
             <div className="grid grid-cols-10 gap-3 lg:gap-5 bg-neutral-900 p-4 rounded-2xl">
                 {
                     answers.map((answer, index) => {
-                        return <div key={index} className={`text-xl ${answer.answer ? "" : "opacity-25 filter grayscale"}`}>{answer.emoji}</div>;
+                        return <div key={index} className={`text-xl ${answer.answer ? "" : "opacity-25 filter grayscale"}`}>
+                            <Twemoji options={{ className: "w-4 h-4 xl:w-8 xl:h-8" }}>
+                                {answer.emoji}
+                            </Twemoji>
+                        </div>;
                     })
                 }
             </div>
