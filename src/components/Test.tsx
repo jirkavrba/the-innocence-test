@@ -17,7 +17,7 @@ const Button: FC<ButtonProps> = ({onClick, children}: ButtonProps) => {
 
 interface TestProps {
     questions: Array<AnsweredQuestionData>,
-    setAnswer: (index: number, answer: boolean) => void,
+    setAnswer: (text: string, answer: boolean) => void,
     onComplete: () => void
 }
 
@@ -25,11 +25,11 @@ const Test: FC<TestProps> = ({ questions, setAnswer, onComplete }: TestProps) =>
     return (
         <main className="flex flex-col items-center justify-center py-10">
             <section className="mx-5 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 mb-10">
-                {questions.map((question: AnsweredQuestionData) =>
+                {questions.map((question: AnsweredQuestionData, index: number) =>
                     <Question
-                        key={question.index}
+                        key={index}
                         question={question}
-                        setAnswer={(answer: boolean) => setAnswer(question.index, answer)}
+                        setAnswer={(answer: boolean) => setAnswer(question.text, answer)}
                     />
                 )}
             </section>

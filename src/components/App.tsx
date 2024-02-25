@@ -12,9 +12,9 @@ const App: FC = () => {
   // Begin with every answer unchecked
   useEffect(() => setQuestions(source.map(question => ({ ...question, answer: false }))), []);
 
-  const setAnswer = (index: number, answer: boolean = true) => {
+  const setAnswer = (text: string, answer: boolean = true) => {
     const updated = questions.map((question: AnsweredQuestionData) => {
-      if (question.index !== index) {
+      if (question.text !== text) {
         return question;
       }
 
