@@ -65,7 +65,7 @@ const groups: Array<ResultGroup> = [
     },
     {
         threshold: 0,
-        title: "Theoretical Computer Science student",
+        title: "Theoretical Computer Science Student",
         description: "You don’t contribute anything to the society. Just be alone! Stop trying. NOBODY LIKES YOU!"
     }
 ];
@@ -82,10 +82,10 @@ const Results: FC<ResultsProps> = ({ answers }: ResultsProps) => {
     const group = groups.find(group => group.threshold <= score)!;
 
     return (
-        <div className="text-center my-10">
+        <div className="text-center my-5 xl:my-10">
             <span className="uppercase text-sm tracking-widest font-bold text-gray-400">Your score &mdash; {score}</span>
-            <h1 className="text-6xl text-fuchsia-500 font-black mt-5">{group.title}</h1>
-            <p className="w-full font-bold sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3 mx-auto my-5 text-neutral-700">
+            <h1 className="text-4xl xl:text-6xl bg-gradient-to-r from-fuchsia-500 to-pink-300 font-black mt-5 mx-auto bg-clip-text text-transparent">{group.title}</h1>
+            <p className="px-4 w-full text-sm xl:text-md font-bold sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3 mx-auto my-5 text-neutral-700">
                 {group.description}
             </p>
             <ResultsGrid answers={answers} />
